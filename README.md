@@ -1,0 +1,1 @@
+Este repositório contém o projeto SecureKey+, desenvolvido individualmente com objetivo de criar uma aplicação que permite aos usuários a criação de uma senha aleatória.  Para o desenvolvimento do projeto, foram utilizadas apenas as tecnologias HTML, CSS e Javascript.
